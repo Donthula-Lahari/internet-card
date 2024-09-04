@@ -1,0 +1,92 @@
+.column-1{
+    margin-left: 47;
+}
+.column-1 p{
+    margin-left: 33;
+    font-size: 35;
+
+}
+
+
+.column-2{
+    background-color:#e6e6e6;
+    margin: 108px 76px 0px;
+    border-radius: 13px;
+    padding: 79px;
+}
+
+.column-2 h2{
+    
+        text-align: center;
+        font-size: 1.55rem;
+        font-weight: 400;    
+}
+
+.login-form{
+    margin: 40px 0px;
+}
+#email{
+    border-radius:25px;
+    height:45px;
+    padding-left: 20px;
+    /* outline-color: black; */
+    border-color: black;
+}
+
+#pwd{
+    border-radius:25px;
+    height:45px;
+    padding-left: 20px;
+    /* outline-color: black; */
+    border-color: black;
+}
+#conpwd{
+    border-radius:25px;
+    height:45px;
+    padding-left: 20px;
+    /* outline-color: black; */
+    border-color: black;
+}
+
+.login-bar p{
+    font-size: 13px;
+    text-align: center;
+}
+span{
+    color: #21c98b;
+}
+.login-bar p a{
+    color: #21c98b;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 400;
+    margin-left: 0px;
+
+}
+.login-bar a{
+    /* color: #21c98b; */
+    color:#112554;
+    font-size: 15;
+    font-weight: 700;
+    margin-left: 263px;
+
+}
+
+.login-bar button{
+    background-color: #21c98b;
+    border-color: #21c98b;
+    border-radius: 25px;
+    height: 45px;
+    width: 395px;
+    margin-top: 20px;
+    font-size: 19;
+}
+#sign-up{
+text-align: center;
+margin-top: 40px;
+font-size: 17px;
+}
+p a{
+    color: black;
+    font-weight: 620;
+}
